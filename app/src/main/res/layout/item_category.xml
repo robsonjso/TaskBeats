@@ -10,6 +10,6 @@
     android:paddingTop="8dp"
     android:paddingEnd="16dp"
     android:paddingBottom="8dp"
-    android:textColor="@drawable/filter_text_color"
+    android:textColor="@color/white"
     android:textStyle="bold"
     tools:text="STUDY" />
