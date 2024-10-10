@@ -159,6 +159,7 @@ class MainActivity : AppCompatActivity() {
                     CategoryUiData(
                         name = "ALL",
                         isSelected = true,
+
                     )
                 )
             }
