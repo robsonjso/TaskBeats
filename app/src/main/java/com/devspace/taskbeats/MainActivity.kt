@@ -149,7 +149,6 @@ class MainActivity : AppCompatActivity() {
                 CategoryUiData(
                     name = "+",
                     isSelected = false
-
                 )
             )
 
